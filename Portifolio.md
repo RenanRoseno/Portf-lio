@@ -9,8 +9,7 @@
 * Algoritmo de caixa bancário (2019)
 
 # Dia das mães - 2017
-> Site desenvolvido em homenagem ao dias das mães com algumas dicas de saúde e com o cálculo de IMC.Desenvolvido em Javascript, HTML e CSS.
-
+> Meu primeiro projeto: Site desenvolvido em homenagem ao dias das mães com algumas dicas de saúde e com o cálculo de IMC.Desenvolvido em Javascript, HTML e CSS.
 
 ![](M1.jpeg)
 ![](M2.jpeg)
