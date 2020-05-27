@@ -12,8 +12,8 @@
 > Meu primeiro projeto: Site desenvolvido em homenagem ao dias das mães com algumas dicas de saúde e com o cálculo de IMC.Desenvolvido em Javascript, HTML e CSS.
 
 ![](imagens/M1.jpeg)
-![](M2.jpeg)
-![](M3.jpeg)
-![](M4.jpeg)
-![](M5.jpeg)
-![](M6.jpeg)
+![](imagens/M2.jpeg)
+![](imagens/M3.jpeg)
+![](imagens/M4.jpeg)
+![](imagens/M5.jpeg)
+![](imagens/M6.jpeg)
