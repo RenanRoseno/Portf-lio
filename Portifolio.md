@@ -20,7 +20,7 @@
 ![](imagens/SS/img7.jpeg)
 ![](imagens/SS/img8.jpeg)
 
-# Dia das mães - 2018
+# Miss Formiga - 2018
 > Projeto desenvolvido em PHP puro e bootstrap. Feito para uma doceteria com sistema de login, cadastro e pedidos.
 ![](imagens/MissFormiga/img1.jpeg)
 ![](imagens/MissFormiga/img2.jpeg)
@@ -33,6 +33,18 @@
 ![](imagens/MissFormiga/img9.jpeg)
 ![](imagens/MissFormiga/img10.jpeg)
 
+# Media Tech - 2017
+> Site que consiste em simular um software de jornalismo. Com sistema de login e cadastro de usuários e restrição de conteúdos.
+![](imagens/MediaTech/img1.jpeg)
+![](imagens/MediaTech/img2.jpeg)
+![](imagens/MediaTech/img3.jpeg)
+![](imagens/MediaTech/img4.jpeg)
+![](imagens/MediaTech/img5.jpeg)
+![](imagens/MediaTech/img6.jpeg)
+![](imagens/MediaTech/img7.jpeg)
+![](imagens/MediaTech/img8.jpeg)
+
+
 # Dia das mães - 2017
 > Meu primeiro projeto: Site desenvolvido em homenagem ao dias das mães com algumas dicas de saúde e com o cálculo de IMC.Desenvolvido em Javascript, HTML e CSS.
 
@@ -42,3 +54,5 @@
 ![](imagens/DiaMaes/M4.jpeg)
 ![](imagens/DiaMaes/M5.jpeg)
 ![](imagens/DiaMaes/M6.jpeg)
+
+
