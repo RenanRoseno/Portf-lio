@@ -11,9 +11,9 @@
 # Dia das mães - 2017
 > Meu primeiro projeto: Site desenvolvido em homenagem ao dias das mães com algumas dicas de saúde e com o cálculo de IMC.Desenvolvido em Javascript, HTML e CSS.
 
-![](imagens/M1.jpeg)
-![](imagens/M2.jpeg)
-![](imagens/M3.jpeg)
-![](imagens/M4.jpeg)
-![](imagens/M5.jpeg)
-![](imagens/M6.jpeg)
+![](imagens/DiaMaes/M1.jpeg)
+![](imagens/DiaMaes/M2.jpeg)
+![](imagens/DiaMaes/M3.jpeg)
+![](imagens/DiaMaes/M4.jpeg)
+![](imagens/DiaMaes/M5.jpeg)
+![](imagens/DiaMaes/M6.jpeg)
